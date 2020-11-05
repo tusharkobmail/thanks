@@ -1,8 +1,43 @@
-<script type="text/javascript">
-function calcHeight(iframeElement){
-    var the_height=  iframeElement.contentWindow.document.body.scrollHeight;
-    iframeElement.height=  the_height;
-}
-</script>
-<title>      Easy Thanksgiving Decor Ideas    </title>
-<iframe src="https://www.kathykuohome.com/blog/6-ig-inspired-thanksgiving-table-decor-ideas/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <title>Thanks Giving Ideas</title> 
+    <style type="text/css"> 
+        html { 
+            overflow: auto; 
+        } 
+          
+        html, 
+        body, 
+        div, 
+        iframe { 
+            margin: 0px; 
+            padding: 0px; 
+            height: 100%; 
+            border: none; 
+        } 
+          
+        iframe { 
+            display: block; 
+            width: 100%; 
+            border: none; 
+            overflow-y: auto; 
+            overflow-x: hidden; 
+        } 
+    </style> 
+</head> 
+  
+<body> 
+    <iframe src="https://www.kathykuohome.com/blog/6-ig-inspired-thanksgiving-table-decor-ideas/"
+            frameborder="0" 
+            marginheight="0" 
+            marginwidth="0" 
+            width="100%" 
+            height="100%" 
+            scrolling="auto"> 
+  </iframe> 
+  
+</body> 
+  
+</html> 
