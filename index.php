@@ -5,4 +5,4 @@ function calcHeight(iframeElement){
 }
 </script>
 <title>      Easy Thanksgiving Decor Ideas    </title>
-<iframe src="https://www.redbookmag.com/home/decor/g3681/easy-thanksgiving-decor/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
+<iframe src="https://www.architectureartdesigns.com/15-stunning-diy-thanksgiving-decor-ideas-you-should-consider-crafting/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
