@@ -5,4 +5,4 @@ function calcHeight(iframeElement){
 }
 </script>
 <title>      Easy Thanksgiving Decor Ideas    </title>
-<iframe src="https://www.architectureartdesigns.com/15-stunning-diy-thanksgiving-decor-ideas-you-should-consider-crafting/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
+<iframe src="https://www.kathykuohome.com/blog/6-ig-inspired-thanksgiving-table-decor-ideas/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
